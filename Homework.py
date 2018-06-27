@@ -1,3 +1,4 @@
+#Rx=Q*b
 def back_sub(R,b):
   x=b
   m=len(b)
